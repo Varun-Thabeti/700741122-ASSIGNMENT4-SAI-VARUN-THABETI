@@ -2,7 +2,6 @@
 
 1. Data Manipulation
 a. Read the provided CSV file ‘data.csv’.
-b. https://drive.google.com/drive/folders/1h8C3mLsso-R-sIOLsvoYwPLzy2fJ4IOF?usp=sharing
 c. Show the basic statistical description about the data.
 d. Check if the data has null values.
 i. Replace the null values with the mean
