@@ -1,5 +1,7 @@
 # 700741122-ASSIGNMENT4-SAI-VARUN-THABETI
 
+Link for the recording: https://drive.google.com/file/d/1nQk3YCNZqOnRWfWOm4hnhSN8I2WF_Ngd/view?usp=drive_link
+
 1. Data Manipulation
 a. Read the provided CSV file ‘data.csv’.
 c. Show the basic statistical description about the data.
